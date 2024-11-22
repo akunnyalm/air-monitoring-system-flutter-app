@@ -1,0 +1,36 @@
+name: airguard
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.2 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  fl_chart: ^0.68.0
+  google_fonts: ^6.2.1
+  firebase_auth: ^5.1.0
+  firebase_core: ^3.1.0
+  cloud_firestore: ^5.0.1
+  firebase_storage: ^12.0.1
+  firebase_database: ^11.0.1
+  line_awesome_flutter: ^3.0.1
+  syncfusion_flutter_charts: ^26.1.39
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/profiles/
