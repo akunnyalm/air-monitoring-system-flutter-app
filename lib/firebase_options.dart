@@ -41,53 +41,22 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBccC-8UxnLL7DgKBqQOWKH4u2ff2SgHUU',
-    appId: '1:815479749819:web:8a8a61ca26b270927d7d9e',
-    messagingSenderId: '815479749819',
-    projectId: 'air-guard-01',
-    authDomain: 'air-guard-01.firebaseapp.com',
-    databaseURL: 'https://air-guard-01-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'air-guard-01.appspot.com',
-    measurementId: 'G-E9BTHK15HG',
+    
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBWF0A1wpMnD79_TZucRqOXqxDoUPJVOdM',
-    appId: '1:815479749819:android:e1b73c5ad46116d47d7d9e',
-    messagingSenderId: '815479749819',
-    projectId: 'air-guard-01',
-    databaseURL: 'https://air-guard-01-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'air-guard-01.appspot.com',
+    
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyABDH16tkt3uqf8bt-FKjxxX8m1fM7ke88',
-    appId: '1:815479749819:ios:e5adf0466ca020417d7d9e',
-    messagingSenderId: '815479749819',
-    projectId: 'air-guard-01',
-    databaseURL: 'https://air-guard-01-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'air-guard-01.appspot.com',
-    iosBundleId: 'com.example.airguard',
+   
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyABDH16tkt3uqf8bt-FKjxxX8m1fM7ke88',
-    appId: '1:815479749819:ios:e5adf0466ca020417d7d9e',
-    messagingSenderId: '815479749819',
-    projectId: 'air-guard-01',
-    databaseURL: 'https://air-guard-01-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'air-guard-01.appspot.com',
-    iosBundleId: 'com.example.airguard',
+    
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBccC-8UxnLL7DgKBqQOWKH4u2ff2SgHUU',
-    appId: '1:815479749819:web:7309069a3ffdd7c57d7d9e',
-    messagingSenderId: '815479749819',
-    projectId: 'air-guard-01',
-    authDomain: 'air-guard-01.firebaseapp.com',
-    databaseURL: 'https://air-guard-01-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'air-guard-01.appspot.com',
-    measurementId: 'G-YBEDD2MTWS',
+   
   );
 }
